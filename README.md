@@ -1,6 +1,6 @@
 # Engineering Labs™
 
-![Engineering Labs Logo](./brand/logo.png)
+![Engineering Labs Logo](./brand/logo-100w.png)
 
 ## Engineering Labs™ Brand Resources
 
